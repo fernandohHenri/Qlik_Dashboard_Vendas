@@ -1,5 +1,5 @@
 # Qlik_Dashboard_Vendas
-Dashboard Desenvolvido com a Ferramenta Qlik Sense
+Dashboard d evendas de carros, Desenvolvido com o intuito de gerar insight para melhor tomada de decisão, a ferramenta utilizada foi a  Qlik Sense.
 
 
 
