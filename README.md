@@ -8,3 +8,4 @@ Dashboard Desenvolvido com a Ferramenta Qlik Sense
 
 
 **Dashboard Perfil do Cliente.
+![image](https://user-images.githubusercontent.com/19213544/73841281-a853aa80-47f0-11ea-9d8f-f8a77e5dfbf9.png)
